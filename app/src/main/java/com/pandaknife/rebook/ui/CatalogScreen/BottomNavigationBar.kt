@@ -1,4 +1,4 @@
-package com.pandaknife.rebook.ui.scrrens
+package com.pandaknife.rebook.ui.CatalogScreen
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*

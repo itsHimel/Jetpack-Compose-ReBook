@@ -4,11 +4,9 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material.*
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.tooling.preview.Preview
-import com.pandaknife.rebook.ui.scrrens.BottomNavItem
-import com.pandaknife.rebook.ui.scrrens.BottomNavigationBar
-import com.pandaknife.rebook.ui.scrrens.HomeScreen
+import com.pandaknife.rebook.ui.CatalogScreen.BottomNavItem
+import com.pandaknife.rebook.ui.CatalogScreen.BottomNavigationBar
+import com.pandaknife.rebook.ui.CatalogScreen.HomeScreen
 import com.pandaknife.rebook.ui.theme.ReBookTheme
 
 class MainActivity : ComponentActivity() {

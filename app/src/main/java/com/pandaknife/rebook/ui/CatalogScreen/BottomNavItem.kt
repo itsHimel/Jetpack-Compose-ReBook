@@ -1,4 +1,4 @@
-package com.pandaknife.rebook.ui.scrrens
+package com.pandaknife.rebook.ui.CatalogScreen
 
 data class BottomNavItem(
     val name: String,
